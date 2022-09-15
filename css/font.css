@@ -1,0 +1,61 @@
+
+
+
+@font-face {
+    font-family: Abel;
+    src: url(../Fonts/Abel/Abel-Regular.ttf);
+}
+
+@font-face {
+    font-family: Anton;
+    src: url(../Fonts/Anton/Anton-Regular.ttf);
+}
+
+@font-face {
+    font-family: Clicker;
+    src: url(../Fonts/Clicker_Script/ClickerScript-Regular.ttf);
+}
+
+@font-face {
+    font-family: Finlandica;
+    src: url(../Fonts/Finlandica/Finlandica-VariableFont_wght.ttf);
+}
+
+@font-face {
+    font-family: Oswald;
+    src: url(../Fonts/Oswald/);
+}
+
+@font-face {
+    font-family: Italic-Roboto;
+    src: url(../Fonts/Roboto/Roboto-BoldItalic.ttf);
+}
+
+@font-face {
+    font-family: Livvic;
+    src: url(../Fonts/Livvic/Livvic-Regular.ttf);
+}
+@font-face {
+    font-family: Lexend;
+    src: url(../Fonts/Lexend_Deca/static/LexendDeca-Regular.ttf);
+}
+
+@font-face {
+    font-family: Finlandica;
+    src: url(../Fonts/Finlandica/Finlandica-Italic-VariableFont_wght.ttf);
+}
+
+@font-face {
+    font-family: Josefin;
+    src: url(../Fonts/Josefin_Sans/JosefinSans-VariableFont_wght.ttf);
+}
+
+@font-face {
+    font-family: Josefin-italic;
+    src: url(../Fonts/Josefin_Sans/JosefinSans-Italic-VariableFont_wght.ttf);
+}
+
+@font-face {
+    font-family: Roboto;
+    src: url(../Fonts/Roboto/Roboto-Bold.ttf);
+}
